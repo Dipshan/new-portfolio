@@ -359,11 +359,11 @@ section .title::before {
 }
 
 .skills-content .right .react::before {
-  width: 90%;
+  width: 80%;
 }
 
 .skills-content .right .node::before {
-  width: 80%;
+  width: 70%;
 }
 
 .skills-content .right .js::before {
@@ -553,7 +553,6 @@ section .title::before {
   background: none;
 }
 
-
 /* footer styling */
 
 footer {
@@ -562,7 +561,6 @@ footer {
   color: white;
   text-align: center;
 }
-
 
 /* responsive media query styling */
 
